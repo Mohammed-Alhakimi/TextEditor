@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/Text Editor/task/build/
+/Text Editor/task/out/
+/Text Editor/task/out/production/classes/
+/Topics/Anonymous classes properties/Managing a process/out/
+/Topics/Anonymous classes properties/Managing a process/out/production/classes/
+/Topics/Iterator and Iterable/Finding the max number/out/
+/Topics/Iterator and Iterable/Finding the max number/out/production/classes/
+/Topics/Iterator and Iterable/Hip-Hop/out/
+/Topics/Iterator and Iterable/Hip-Hop/out/production/classes/
+/Topics/Iterator and Iterable/No  J/out/
+/Topics/Iterator and Iterable/No  J/out/production/classes/

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Text_Editor.Text_Editor-task-build-classes-java.main" target="11" />
+      <module name="Text_Editor.Text_Editor-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Text_Editor.Text_Editor-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Text_Editor.Text_Editor-task-build-reports-tests.main" target="11" />
+      <module name="Text_Editor.Text_Editor-task-build-test-results.main" target="11" />
+      <module name="Text_Editor.Text_Editor-task-build-tmp.main" target="11" />
+      <module name="Text_Editor.Text_Editor-task.main" target="11" />
+      <module name="Text_Editor.Topics-Anonymous_classes_properties-Calculator.main" target="11" />
+      <module name="Text_Editor.Topics-Anonymous_classes_properties-Create_instance.main" target="11" />
+      <module name="Text_Editor.Topics-Anonymous_classes_properties-Fixing_the_code.main" target="11" />
+      <module name="Text_Editor.Topics-Anonymous_classes_properties-Iterations.main" target="11" />
+      <module name="Text_Editor.Topics-Anonymous_classes_properties-Managing_a_process.main" target="11" />
+      <module name="Text_Editor.Topics-Anonymous_classes_properties-My_possibilities.main" target="11" />
+      <module name="Text_Editor.Topics-Anonymous_classes_properties-Theory.main" target="11" />
+      <module name="Text_Editor.Topics-Iterator_and_Iterable-Determine_the_order.main" target="11" />
+      <module name="Text_Editor.Topics-Iterator_and_Iterable-Finding_the_max_number.main" target="11" />
+      <module name="Text_Editor.Topics-Iterator_and_Iterable-Hip-Hop.main" target="11" />
+      <module name="Text_Editor.Topics-Iterator_and_Iterable-Interfaces_with_iterator.main" target="11" />
+      <module name="Text_Editor.Topics-Iterator_and_Iterable-Iterable_range.main" target="11" />
+      <module name="Text_Editor.Topics-Iterator_and_Iterable-Iterators_and_for-each.main" target="11" />
+      <module name="Text_Editor.Topics-Iterator_and_Iterable-No__J.main" target="11" />
+      <module name="Text_Editor.Topics-Iterator_and_Iterable-Remove_elements_of_a_collection.main" target="11" />
+      <module name="Text_Editor.Topics-Iterator_and_Iterable-Reversed_list.main" target="11" />
+      <module name="Text_Editor.Topics-Iterator_and_Iterable-Theory.main" target="11" />
+      <module name="Text_Editor.Topics-Iterator_and_Iterable-What_is_an_Iterable.main" target="11" />
+      <module name="Text_Editor.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
